@@ -8,3 +8,4 @@ Let's check out the Notion:
 [![](https://img.shields.io/badge/SignalKinetics%2F-Python%2F--DataScience-blue?style=for-the-badge&logo=dribbble)](https://www.notion.so/skinetics/Data-Science-w-Python-debfb80407e247e692f44302744ecd8e)
  
  
+Jira issue DSP-4 Branch
